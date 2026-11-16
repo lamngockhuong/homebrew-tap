@@ -6,23 +6,23 @@ class Termote < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/lamngockhuong/termote/releases/download/v2.26.4/termote-2.26.4-darwin-arm64.tar.gz"
-      sha256 "5332223d74b036386972186240d113def9159f2af69b36d6b3c42a66d01b2335"
+      url "https://github.com/lamngockhuong/termote/releases/download/v2.27.0/termote-2.27.0-darwin-arm64.tar.gz"
+      sha256 "d8299ef6b1103eac7bb50155e485b8952dbac5aabd6fe0756dd9ce6269233e59"
     end
     on_intel do
-      url "https://github.com/lamngockhuong/termote/releases/download/v2.26.4/termote-2.26.4-darwin-amd64.tar.gz"
-      sha256 "59c765d021c92bfe76ba3b64349057eba1fe22fb3169dbe122240e83d58f9f6f"
+      url "https://github.com/lamngockhuong/termote/releases/download/v2.27.0/termote-2.27.0-darwin-amd64.tar.gz"
+      sha256 "5bbcd813f4d3e828c5199a4760230f561df632d3491835e757e9221cfb7938a3"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/lamngockhuong/termote/releases/download/v2.26.4/termote-2.26.4-linux-arm64.tar.gz"
-      sha256 "5bba5709c8711993cae9d879a187b61043fc2f3c03c9edafe3d6b1aba1ca0632"
+      url "https://github.com/lamngockhuong/termote/releases/download/v2.27.0/termote-2.27.0-linux-arm64.tar.gz"
+      sha256 "e5f7fa40e42d634f63cbe515574caa9e129d540603ad07acbe3dbefdecc52966"
     end
     on_intel do
-      url "https://github.com/lamngockhuong/termote/releases/download/v2.26.4/termote-2.26.4-linux-amd64.tar.gz"
-      sha256 "c1f73d7dab909788ea490cce545d09f55858881ec7f2d64cf744b971196c789e"
+      url "https://github.com/lamngockhuong/termote/releases/download/v2.27.0/termote-2.27.0-linux-amd64.tar.gz"
+      sha256 "66f2bade696303f67d932941494290eb71cc6fc6c78de5a6979ee1750a12c212"
     end
   end
 
